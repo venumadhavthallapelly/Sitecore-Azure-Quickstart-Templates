@@ -183,7 +183,7 @@
     },
     "applicationInsightsLocation": {
       "type": "string",
-      "defaultValue": "East US"
+      "defaultValue": "australiaeast"
     },
     "storeSitecoreCountersInApplicationInsights": {
       "type": "bool",
